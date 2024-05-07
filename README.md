@@ -6,6 +6,8 @@ This custom spell lays the foundation and showcases how you can create other spe
 
 The mod relies heavily on Lua scripting.
 
+See this [blog post](https://dasang.github.io/blog/warhammer_mod/) where I discuss about how this works.
+
 # Download
 
 You can download the mod [here](https://github.com/DasAng/warhammer_mind_control_spell/releases/download/v1.0.0/ang_control_spell.pack)
